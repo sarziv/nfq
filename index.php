@@ -1,4 +1,4 @@
-<?php 
-echo '<p>Hello World</p>'; 
-
-?> 
+<?php
+  echo "Hello World!";
+  echo "PHP is so easy!";
+?>
